@@ -1,6 +1,6 @@
 # expenses
 
-An expenses tracker app build using Flutter.
+An expenses tracker app built using Flutter.
 
 ## Expense Model
 ```
